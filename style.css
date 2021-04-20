@@ -1,0 +1,31 @@
+/* MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE MOBILE*/
+    
+    /* GENRES */
+    .contenedor-principal-genres {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .contenedor-genres {
+        margin: 10px 0;
+    }
+
+    .contenedor-genres img {
+        max-width: 80vw;
+        height: auto;
+    }
+
+/* TABLET TABLET TABLET TABLET TABLET TABLET TABLET TABLET*/
+    
+    /* GENRES */
+    .contenedor-genres img {
+        width: 39vw;
+    }
+
+/* DESKTOP DESKTOP DESKTOP DESKTOP DESKTOP DESKTOP DESKTOP*/
+    
+    /* GENRES */
+    .contenedor-genres img {
+        width: 24vw;
+    }
